@@ -1,11 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kevs blog</title>
+    <title>kevinjodea@blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on kevs blog</description>
+    <description>Recent content on kevinjodea@blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jun 2025 22:35:48 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>boston convention center</title>
+      <link>http://localhost:1313/photos/2025/bos-nyc/08/</link>
+      <pubDate>Wed, 04 Jun 2025 22:35:48 -0700</pubDate>
+      <guid>http://localhost:1313/photos/2025/bos-nyc/08/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>downtown boston</title>
+      <link>http://localhost:1313/photos/2025/bos-nyc/09/</link>
+      <pubDate>Wed, 04 Jun 2025 22:35:48 -0700</pubDate>
+      <guid>http://localhost:1313/photos/2025/bos-nyc/09/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>george washington statue</title>
+      <link>http://localhost:1313/photos/2025/bos-nyc/07/</link>
+      <pubDate>Wed, 04 Jun 2025 22:35:48 -0700</pubDate>
+      <guid>http://localhost:1313/photos/2025/bos-nyc/07/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>nyc view from new jersey</title>
+      <link>http://localhost:1313/photos/2025/bos-nyc/06/</link>
+      <pubDate>Wed, 04 Jun 2025 22:35:48 -0700</pubDate>
+      <guid>http://localhost:1313/photos/2025/bos-nyc/06/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hello world</title>
+      <link>http://localhost:1313/posts/2025/06/04/</link>
+      <pubDate>Wed, 04 Jun 2025 20:10:45 -0700</pubDate>
+      <guid>http://localhost:1313/posts/2025/06/04/</guid>
+      <description>&lt;p&gt;it me&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>brooklyn bridge</title>
+      <link>http://localhost:1313/photos/2025/bos-nyc/05/</link>
+      <pubDate>Wed, 04 Jun 2025 17:47:50 -0700</pubDate>
+      <guid>http://localhost:1313/photos/2025/bos-nyc/05/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>clockwork bar</title>
+      <link>http://localhost:1313/photos/2025/bos-nyc/03/</link>
+      <pubDate>Wed, 04 Jun 2025 17:47:50 -0700</pubDate>
+      <guid>http://localhost:1313/photos/2025/bos-nyc/03/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>manhattan bridge walking path</title>
+      <link>http://localhost:1313/photos/2025/bos-nyc/04/</link>
+      <pubDate>Wed, 04 Jun 2025 17:47:50 -0700</pubDate>
+      <guid>http://localhost:1313/photos/2025/bos-nyc/04/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>the woo woo</title>
+      <link>http://localhost:1313/photos/2025/bos-nyc/02/</link>
+      <pubDate>Wed, 04 Jun 2025 15:40:40 -0700</pubDate>
+      <guid>http://localhost:1313/photos/2025/bos-nyc/02/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kin ramen</title>
+      <link>http://localhost:1313/photos/2025/bos-nyc/01/</link>
+      <pubDate>Wed, 04 Jun 2025 15:40:39 -0700</pubDate>
+      <guid>http://localhost:1313/photos/2025/bos-nyc/01/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
