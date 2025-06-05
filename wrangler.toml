@@ -1,0 +1,9 @@
+name = "blog-kevinjodea-cf"
+compatibility_date = "2025-06-05"
+
+[build]
+command = "hugo"
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
