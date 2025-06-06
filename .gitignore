@@ -1,7 +1,8 @@
 # kev1njodea/blog
 
 # temp files
-tmp/
+/tmp/
 
 # hugo generated assets
-resources/_gen/
+/public/
+/resources/_gen/
