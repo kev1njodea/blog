@@ -1,4 +1,4 @@
-baseURL = 'https://blog.kevinjodea.com'
+baseURL = 'https://blog.kevinjodea.com/'
 title = 'kevinjodea@blog'
 theme = 'hugo-theme-console'
 languageCode = 'en-us'
