@@ -28,4 +28,4 @@ languageCode = 'en-us'
 
   [[params.navlinks]]
   name = "code/"
-  url = "https://github.com/kev1njodea/blog"
+  url = "https://github.com/kevinjodea/blog"
