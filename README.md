@@ -1,14 +1,20 @@
 # blog.kevinjodea.com
 
-Static site built as a DevOps learning project.
+Learning modern build and deploy workflows with a personal static site.
 
 ## Tech Stack
 
-- **Framework:** ([Hugo](https://gohugo.io/)) static site generator
-- **Theme:** Custom ([hugo-theme-console](https://github.com/kev1njodea/hugo-theme-console)) fork
-- **Cloudflare:**
-  - Domain registration ([Registrar](https://developers.cloudflare.com/registrar/))
-  - Primary DNS provider ([DNS](https://developers.cloudflare.com/dns/))
-  - Serverless hosting ([Workers](https://developers.cloudflare.com/workers/))
-  - Object storage ([R2](https://developers.cloudflare.com/r2/))
-  - Image transformation ([Images](https://developers.cloudflare.com/images/))
+Everything except the domain registration falls under the free tier.
+
+| **Hugo**                                                                   |                       | **Cloudflare Services**                                       |                                     |
+| -------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------- | ----------------------------------- |
+| **[Hugo](https://gohugo.io/)**                                             | Static site generator | **[Registrar](https://developers.cloudflare.com/registrar/)** | Domain registration & management    |
+| **[hugo-theme-console](https://github.com/kevinjodea/hugo-theme-console)** | Theme (Fork)          | **[DNS](https://developers.cloudflare.com/dns/)**             | Authoritative nameservers           |
+|                                                                            |                       | **[Workers](https://developers.cloudflare.com/workers/)**     | Serverless hosting & routing        |
+|                                                                            |                       | **[R2](https://developers.cloudflare.com/r2/)**               | S3-compatible object storage        |
+|                                                                            |                       | **[Images](https://developers.cloudflare.com/images/)**       | Edge-powered CDN & image transforms |
+
+## Acknowledgments
+
+- [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console)
+- AI tools (ChatGPT, Claude)
