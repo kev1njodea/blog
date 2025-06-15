@@ -1,4 +1,4 @@
-name = "kevinjodea-blog"
+name = "blog"
 compatibility_date = "2025-06-14"
 
 workers_dev = false
