@@ -2,6 +2,7 @@ name = "kevinjodea-blog"
 compatibility_date = "2025-06-14"
 
 workers_dev = false
+preview_urls = false
 routes = [
   { pattern = "blog.kevinjodea.com", custom_domain = true }
 ]
