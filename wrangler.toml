@@ -1,9 +1,13 @@
-name = "blog"
-compatibility_date = "2025-06-05"
+name = "kevinjodea-blog"
+compatibility_date = "2025-06-14"
+
+workers_dev = false
+routes = [
+  { pattern = "blog.kevinjodea.com", custom_domain = true }
+]
 
 [build]
 command = "hugo"
 
 [assets]
 directory = "./public"
-not_found_handling = "404-page"
